@@ -11,7 +11,7 @@ https://github.com/GoogleCloudPlatform/microservices-demo
 >|   |   |-- recommendationservice.yaml <br>
 >|   |   |-- redis-cart.yaml <br>
 >|   |   \`-- shippingservice.yaml <br>
->|   |-- cluster1-services.yaml    \#k8s services which related micro services deployed on cluster2 also should be deploy on cluster1 <br>
+>|   |-- cluster1-services.yaml    \#k8s services which related micro services deployed on cluster2 also should be deployed on cluster1 <br>
 >|   |-- cluster2    \#micro services deployed on cluster2 <br>
 >|   |   |-- adservice.yaml <br>
 >|   |   |-- checkoutservice.yaml <br>
@@ -20,5 +20,5 @@ https://github.com/GoogleCloudPlatform/microservices-demo
 >|   |   |-- loadgenerator.yaml <br>
 >|   |   -- paymentservice.yaml <br>
 >|   |-- cluster2-istio-gw.yaml    \#istio gateway and virtualservice deployed on cluster2 <br>
->|   -- cluster2-services.yaml    \#k8s services which related micro services deployed on cluster1 also should be deploy on cluster2 <br>
+>|   -- cluster2-services.yaml    \#k8s services which related micro services deployed on cluster1 also should be deployed on cluster2 <br>
 >\`-- README.md <br>
