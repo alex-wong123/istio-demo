@@ -1,7 +1,7 @@
 # istio-demo onlineboutique
-This demo is from Google microservice demo.
-It was split to deploy on two k8s clusters.
-The git repository url as follow:
+This demo is from Google microservice demo.<br>
+It was split to deploy on two k8s clusters. <br>
+The git repository url as follow:<br>
 https://github.com/GoogleCloudPlatform/microservices-demo
 
 >|-- online-boutique <br>
